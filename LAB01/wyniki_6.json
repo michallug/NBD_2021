@@ -1,0 +1,17 @@
+[
+  {
+    _id: ObjectId("61632e2f375e8dacd6931dff"),
+    sex: 'Male',
+    first_name: 'Michał',
+    last_name: 'Ługowski',
+    job: 'SQL Developer',
+    email: 'michal@lugowski.com',
+    location: { city: 'Warsaw', address: [Object] },
+    description: 'Ala ma kota',
+    height: '175.5',
+    weight: '75.2',
+    birth_date: '1997-04-05T01:01:01Z',
+    nationality: 'Poland',
+    credit: [ [Object] ]
+  }
+]
