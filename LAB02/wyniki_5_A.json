@@ -1,0 +1,371 @@
+MongoDB shell version v4.2.17
+connecting to: mongodb://localhost:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("d986cbe5-5c42-46b1-aa0e-408e54344f6d") }
+MongoDB server version: 4.2.17
+[
+	{
+		"sum_balance" : 16755.49,
+		"avg" : 5585.163333333334,
+		"waluta" : "AFN"
+	},
+	{
+		"sum_balance" : 3325.48,
+		"avg" : 3325.48,
+		"waluta" : "ALL"
+	},
+	{
+		"sum_balance" : 24609.33,
+		"avg" : 4921.866,
+		"waluta" : "AMD"
+	},
+	{
+		"sum_balance" : 23242,
+		"avg" : 4648.4,
+		"waluta" : "ARS"
+	},
+	{
+		"sum_balance" : 21200.88,
+		"avg" : 5300.22,
+		"waluta" : "BGN"
+	},
+	{
+		"sum_balance" : 5263.3,
+		"avg" : 5263.3,
+		"waluta" : "BOB"
+	},
+	{
+		"sum_balance" : 49632.020000000004,
+		"avg" : 4512.001818181819,
+		"waluta" : "BRL"
+	},
+	{
+		"sum_balance" : 4076.29,
+		"avg" : 4076.29,
+		"waluta" : "BWP"
+	},
+	{
+		"sum_balance" : 5095.79,
+		"avg" : 5095.79,
+		"waluta" : "BYR"
+	},
+	{
+		"sum_balance" : 58375.6,
+		"avg" : 5306.872727272727,
+		"waluta" : "CAD"
+	},
+	{
+		"sum_balance" : 12228.8,
+		"avg" : 6114.4,
+		"waluta" : "CDF"
+	},
+	{
+		"sum_balance" : 21008.95,
+		"avg" : 5252.2375,
+		"waluta" : "CLP"
+	},
+	{
+		"sum_balance" : 470700.38,
+		"avg" : 4954.740842105263,
+		"waluta" : "CNY"
+	},
+	{
+		"sum_balance" : 19746.73,
+		"avg" : 4936.6825,
+		"waluta" : "COP"
+	},
+	{
+		"sum_balance" : 15017.34,
+		"avg" : 5005.78,
+		"waluta" : "CUP"
+	},
+	{
+		"sum_balance" : 37156.42,
+		"avg" : 4644.5525,
+		"waluta" : "CZK"
+	},
+	{
+		"sum_balance" : 20674.739999999998,
+		"avg" : 5168.6849999999995,
+		"waluta" : "DOP"
+	},
+	{
+		"sum_balance" : 5579.3,
+		"avg" : 5579.3,
+		"waluta" : "EGP"
+	},
+	{
+		"sum_balance" : 5436.11,
+		"avg" : 5436.11,
+		"waluta" : "ETB"
+	},
+	{
+		"sum_balance" : 245091.47,
+		"avg" : 4901.8294,
+		"waluta" : "EUR"
+	},
+	{
+		"sum_balance" : 6149.19,
+		"avg" : 6149.19,
+		"waluta" : "GBP"
+	},
+	{
+		"sum_balance" : 5806.3,
+		"avg" : 5806.3,
+		"waluta" : "GTQ"
+	},
+	{
+		"sum_balance" : 16514.59,
+		"avg" : 5504.863333333334,
+		"waluta" : "HNL"
+	},
+	{
+		"sum_balance" : 24354.82,
+		"avg" : 4870.964,
+		"waluta" : "HRK"
+	},
+	{
+		"sum_balance" : 323922.59,
+		"avg" : 4907.918030303031,
+		"waluta" : "IDR"
+	},
+	{
+		"sum_balance" : 16295.49,
+		"avg" : 5431.83,
+		"waluta" : "ILS"
+	},
+	{
+		"sum_balance" : 4269.39,
+		"avg" : 4269.39,
+		"waluta" : "IQD"
+	},
+	{
+		"sum_balance" : 26504.239999999998,
+		"avg" : 4417.373333333333,
+		"waluta" : "IRR"
+	},
+	{
+		"sum_balance" : 4316.41,
+		"avg" : 4316.41,
+		"waluta" : "ISK"
+	},
+	{
+		"sum_balance" : 60944.74,
+		"avg" : 5078.7283333333335,
+		"waluta" : "JPY"
+	},
+	{
+		"sum_balance" : 13379.82,
+		"avg" : 6689.91,
+		"waluta" : "KRW"
+	},
+	{
+		"sum_balance" : 3760.89,
+		"avg" : 3760.89,
+		"waluta" : "KYD"
+	},
+	{
+		"sum_balance" : 3788.95,
+		"avg" : 3788.95,
+		"waluta" : "KZT"
+	},
+	{
+		"sum_balance" : 8764.99,
+		"avg" : 4382.495,
+		"waluta" : "LYD"
+	},
+	{
+		"sum_balance" : 3818.85,
+		"avg" : 3818.85,
+		"waluta" : "MAD"
+	},
+	{
+		"sum_balance" : 14560.99,
+		"avg" : 4853.663333333333,
+		"waluta" : "MGA"
+	},
+	{
+		"sum_balance" : 3835.05,
+		"avg" : 3835.05,
+		"waluta" : "MKD"
+	},
+	{
+		"sum_balance" : 4629.42,
+		"avg" : 4629.42,
+		"waluta" : "MMK"
+	},
+	{
+		"sum_balance" : 21715.61,
+		"avg" : 5428.9025,
+		"waluta" : "MNT"
+	},
+	{
+		"sum_balance" : 3574.42,
+		"avg" : 3574.42,
+		"waluta" : "MWK"
+	},
+	{
+		"sum_balance" : 50229,
+		"avg" : 5022.9,
+		"waluta" : "MXN"
+	},
+	{
+		"sum_balance" : 4781.12,
+		"avg" : 4781.12,
+		"waluta" : "MYR"
+	},
+	{
+		"sum_balance" : 24946.23,
+		"avg" : 4157.705,
+		"waluta" : "NGN"
+	},
+	{
+		"sum_balance" : 9971.28,
+		"avg" : 4985.64,
+		"waluta" : "NIO"
+	},
+	{
+		"sum_balance" : 4773.66,
+		"avg" : 4773.66,
+		"waluta" : "NOK"
+	},
+	{
+		"sum_balance" : 5792.26,
+		"avg" : 5792.26,
+		"waluta" : "NPR"
+	},
+	{
+		"sum_balance" : 5328.46,
+		"avg" : 5328.46,
+		"waluta" : "NZD"
+	},
+	{
+		"sum_balance" : 18644.94,
+		"avg" : 4661.235,
+		"waluta" : "PEN"
+	},
+	{
+		"sum_balance" : 118606.28,
+		"avg" : 4941.928333333333,
+		"waluta" : "PHP"
+	},
+	{
+		"sum_balance" : 18938,
+		"avg" : 4734.5,
+		"waluta" : "PKR"
+	},
+	{
+		"sum_balance" : 90770.78,
+		"avg" : 5042.821111111111,
+		"waluta" : "PLN"
+	},
+	{
+		"sum_balance" : 4874.69,
+		"avg" : 4874.69,
+		"waluta" : "PYG"
+	},
+	{
+		"sum_balance" : 4276.56,
+		"avg" : 4276.56,
+		"waluta" : "RSD"
+	},
+	{
+		"sum_balance" : 119749.15,
+		"avg" : 4989.547916666666,
+		"waluta" : "RUB"
+	},
+	{
+		"sum_balance" : 4632.88,
+		"avg" : 4632.88,
+		"waluta" : "RWF"
+	},
+	{
+		"sum_balance" : 70840.19,
+		"avg" : 5060.013571428572,
+		"waluta" : "SEK"
+	},
+	{
+		"sum_balance" : 5286.68,
+		"avg" : 5286.68,
+		"waluta" : "SRD"
+	},
+	{
+		"sum_balance" : 23021.96,
+		"avg" : 4604.392,
+		"waluta" : "THB"
+	},
+	{
+		"sum_balance" : 4087.71,
+		"avg" : 4087.71,
+		"waluta" : "TJS"
+	},
+	{
+		"sum_balance" : 7052.370000000001,
+		"avg" : 3526.1850000000004,
+		"waluta" : "TZS"
+	},
+	{
+		"sum_balance" : 40471.840000000004,
+		"avg" : 5058.9800000000005,
+		"waluta" : "UAH"
+	},
+	{
+		"sum_balance" : 74680.98,
+		"avg" : 4978.732,
+		"waluta" : "USD"
+	},
+	{
+		"sum_balance" : 3573.03,
+		"avg" : 3573.03,
+		"waluta" : "UZS"
+	},
+	{
+		"sum_balance" : 8333.28,
+		"avg" : 4166.64,
+		"waluta" : "VEF"
+	},
+	{
+		"sum_balance" : 36160.26,
+		"avg" : 4520.0325,
+		"waluta" : "VND"
+	},
+	{
+		"sum_balance" : 6418.27,
+		"avg" : 6418.27,
+		"waluta" : "VUV"
+	},
+	{
+		"sum_balance" : 14094.66,
+		"avg" : 4698.22,
+		"waluta" : "XAF"
+	},
+	{
+		"sum_balance" : 17882.05,
+		"avg" : 5960.683333333333,
+		"waluta" : "XOF"
+	},
+	{
+		"sum_balance" : 4759.07,
+		"avg" : 4759.07,
+		"waluta" : "XPF"
+	},
+	{
+		"sum_balance" : 13712.5,
+		"avg" : 4570.833333333333,
+		"waluta" : "YER"
+	},
+	{
+		"sum_balance" : 11790.92,
+		"avg" : 3930.306666666667,
+		"waluta" : "ZAR"
+	},
+	{
+		"sum_balance" : 5569.56,
+		"avg" : 5569.56,
+		"waluta" : "ZMW"
+	},
+	{
+		"sum_balance" : 5792.17,
+		"avg" : 5792.17,
+		"waluta" : "ZWL"
+	}
+]
