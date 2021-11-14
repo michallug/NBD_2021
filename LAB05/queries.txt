@@ -1,0 +1,38 @@
+s17190
+
+1.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Pencil", "source": "wood", "color": "blue", "price": 10}' http://localhost:8098/buckets/s17190/keys/pencil
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Notebook", "source": "paper", "color": "black", "price": 5}' http://localhost:8098/buckets/s17190/keys/notebook
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Keyboard", "source": "plastic", "color": "purple", "price": 55}' http://localhost:8098/buckets/s17190/keys/keyboard
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Pendrive", "source": "metal", "color": "silver", "price": 40}' http://localhost:8098/buckets/s17190/keys/pendrive
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Headphones", "source": "plastic", "color": "white", "price": 35}' http://localhost:8098/buckets/s17190/keys/headphones
+
+2.
+curl -i -XGET http://localhost:8098/buckets/s17190/keys/pencil
+
+3.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Pencil", "source": "wood", "color": "blue", "price": 10, "rubber": "Yes"}' http://localhost:8098/buckets/s17190/keys/pencil
+curl -i -XGET http://localhost:8098/buckets/s17190/keys/pencil
+
+4.
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Pencil", "source": "wood", "price": 10, "rubber": "Yes"}' http://localhost:8098/buckets/s17190/keys/pencil
+curl -i -XGET http://localhost:8098/buckets/s17190/keys/pencil
+
+5. !!!
+curl -i -XPUT -H "Content-Type: application/json" -d '{"name": "Pencil", "source": "wood", "price": 555, "rubber": "Yes"}' http://localhost:8098/buckets/s17190/keys/pencil
+curl -i -XGET http://localhost:8098/buckets/s17190/keys/pencil
+
+6.
+curl -i -XDELETE 'http://localhost:8098/buckets/s17190/keys/pencil'
+
+7.
+curl -i -XGET http://localhost:8098/buckets/s17190/keys/bag
+
+8.
+curl -i -XPOST -H "Content-Type: application/json" -d '{"name": "None"}' http://localhost:8098/buckets/s17190/keys/
+
+9.
+curl -i -XGET http://localhost:8098/buckets/s17190/keys/WUj5dLA9LKUg9YzGUNaTxeEkSPC
+
+10.
+curl -i -XDELETE 'http://localhost:8098/buckets/s17190/keys/WUj5dLA9LKUg9YzGUNaTxeEkSPC'

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fv7RkdFkYPBTzGBKZMxjZVjQwnqbLwsA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17190>; rel="up"
+Last-Modified: Sun, 14 Nov 2021 13:01:20 GMT
+ETag: "g8ifYYJTyhlfvV2MaMOYy"
+Date: Sun, 14 Nov 2021 13:03:21 GMT
+Content-Type: application/json
+Content-Length: 66
+
+{"name": "Pencil", "source": "wood", "color": "blue", "price": 10}
