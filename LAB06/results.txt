@@ -1,0 +1,14 @@
+root@ubuntu:/home/s17190# python scriptLAB06.py
+1. Dodanie
+('Dodano', 'program')
+2. Wypisanie
+{"name": "Program", "source": "Python", "price": 5}
+3. Modyfikacja
+('Dodano', 'program')
+4. Wypisanie po modyfikacji
+{"name": "Program", "source": "Python", "price": 1000}
+5. Usuniecie
+('Usunieto', 'program')
+6. Proba pobrania
+None
+root@ubuntu:/home/s17190# 
